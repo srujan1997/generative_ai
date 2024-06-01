@@ -1,0 +1,11 @@
+# Mac OS X
+.DS_Store
+
+# JetBrains IDE
+.idea/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Jupyter Notebooks
+*/.ipynb_checkpoints
